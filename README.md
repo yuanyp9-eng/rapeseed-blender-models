@@ -33,7 +33,7 @@ Each model contains:
 
 ## Download
 
-The complete model dataset will be released through GitHub Releases and Zenodo.
+The complete model dataset is available through GitHub Releases and Zenodo.
 
 ## Citation
 If you use these models in academic research, please cite this repository:
@@ -61,6 +61,6 @@ For questions regarding the dataset, please contact:
 
 Yapeng Yuan
 
-Southwest University
-
 College of Agronomy and Biotechnology
+
+Southwest University
