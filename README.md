@@ -36,13 +36,31 @@ Each model contains:
 The complete model dataset will be released through GitHub Releases and Zenodo.
 
 ## Citation
-
-If you use these models in academic research, please cite this repository.
+If you use these models in academic research, please cite this repository:
+Yuan, Y. (2026). Rapeseed Blender Models: An Open-source Digital Plant Model Dataset. GitHub repository.
 
 ## License
 
-The models will be released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-
+The models are released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 ## Author
 
-yuanyapeng
+Yapeng Yuan
+
+Graduate Student
+
+College of Agronomy and Biotechnology
+
+Southwest University
+## Research Background
+
+This dataset was developed as part of a research project on digital plant modeling and growth visualization of rapeseed (Brassica napus L.).
+
+The models were created for academic research, agricultural visualization, digital phenotyping, and plant growth simulation applications.
+## Contact
+For questions regarding the dataset, please contact:
+
+Yapeng Yuan
+
+Southwest University
+
+College of Agronomy and Biotechnology
