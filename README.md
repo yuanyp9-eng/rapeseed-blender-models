@@ -1,66 +1,112 @@
 # Rapeseed Blender Models
 
-An open-source collection of 200 Blender models representing different growth stages and morphological characteristics of rapeseed plants.
+An open-source digital plant model dataset representing different growth stages and morphological characteristics of rapeseed (*Brassica napus* L.).
 
 ## Overview
 
-This repository provides a digital plant model dataset developed for rapeseed growth visualization, 3D reconstruction, and agricultural research.
+This project contains 200 Blender-based digital plant models of rapeseed covering multiple developmental stages.
 
-The dataset contains 200 Blender (.blend) models with realistic plant structures, including leaves, stems, branches, and pods.
+The models were developed for rapeseed growth visualization, three-dimensional reconstruction, digital phenotyping, agricultural research, and educational applications.
+
+Representative Cycles-rendered images are provided in this GitHub repository and organized according to the BBCH growth stage scale. The complete Blender model dataset will be released through Zenodo.
 
 ## Dataset Information
 
-- Species: Rapeseed (Brassica napus L.)
-- Number of models: 200
-- File format: Blender (.blend)
-- Software: Blender 4.x
-- Render engine: Cycles
-- Application:
-  - Digital plant modeling
-  - Agricultural visualization
-  - Plant phenotyping research
-  - Educational applications
+- **Species:** Rapeseed (*Brassica napus* L.)
+- **Number of models:** 200
+- **Model format:** Blender (.blend)
+- **Software:** Blender 4.x
+- **Rendering engine:** Cycles
+- **Growth-stage classification:** BBCH scale
+- **Data type:** Three-dimensional digital plant models
 
-## Model Contents
+## BBCH Growth Stages
 
-Each model contains:
+| Folder | BBCH range | Developmental stage |
+|---|---|---|
+| 01_BBCH10-19_Seedling | BBCH 10–19 | Seedling and leaf development |
+| 02_BBCH20-29_Rosette | BBCH 20–29 | Rosette development |
+| 03_BBCH30-39_Stem_elongation | BBCH 30–39 | Stem elongation |
+| 04_BBCH50-59_Bud | BBCH 50–59 | Bud and inflorescence development |
+| 05_BBCH60-69_Flowering | BBCH 60–69 | Flowering |
+| 06_BBCH70-79_Pod | BBCH 70–79 | Pod development |
+| 07_BBCH80-89_Maturity | BBCH 80–89 | Ripening and maturity |
 
-- Complete plant structure
+## Model Characteristics
+
+The digital plant models represent above-ground morphological structures, including:
+
 - Leaf morphology
 - Stem architecture
-- Growth-stage characteristics
+- Branching structure
+- Bud and inflorescence characteristics
+- Flowering characteristics
+- Pod morphology
+- Growth-stage-specific plant architecture
 - Materials and rendering settings
 
-## Download
+## Repository Contents
 
-The complete model dataset is available through GitHub Releases and Zenodo.
+This repository contains representative rendered images from the following stages:
+
+- BBCH 10–19: Seedling stage
+- BBCH 20–29: Rosette stage
+- BBCH 30–39: Stem elongation stage
+- BBCH 50–59: Bud development stage
+- BBCH 60–69: Flowering stage
+- BBCH 70–79: Pod development stage
+- BBCH 80–89: Ripening and maturity stage
+
+## Data Availability
+
+This GitHub repository provides representative rendered images, BBCH growth-stage classification, and dataset documentation.
+
+The complete dataset containing 200 Blender model files will be released through Zenodo. The Zenodo DOI and download information will be added after publication.
+
+## Applications
+
+This dataset may support:
+
+- Digital plant modeling
+- Three-dimensional crop visualization
+- Plant phenotyping research
+- Rapeseed growth-stage analysis
+- Crop growth simulation
+- Computer vision and agricultural artificial intelligence
+- Agricultural teaching and scientific communication
 
 ## Citation
-If you use these models in academic research, please cite this repository:
-Yuan, Y. (2026). Rapeseed Blender Models: An Open-source Digital Plant Model Dataset. GitHub repository.
+
+Citation information will be updated after the complete dataset receives a Zenodo DOI.
+
+Before the DOI is available, please cite this GitHub repository as:
+
+Yuan, Y. (2026). *Rapeseed Blender Models: An Open-source Digital Plant Model Dataset*. GitHub repository.
 
 ## License
 
-The models are released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This dataset is intended to be released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Users may share and adapt the dataset, provided that appropriate credit is given to the author and the original dataset source.
+
 ## Author
 
-Yapeng Yuan
+**Yapeng Yuan**
 
-Graduate Student
-
-College of Agronomy and Biotechnology
-
+Graduate Student  
+College of Agronomy and Biotechnology  
 Southwest University
+
 ## Research Background
 
-This dataset was developed as part of a research project on digital plant modeling and growth visualization of rapeseed (Brassica napus L.).
+This dataset was developed as part of a research project focusing on digital plant modeling and growth visualization of rapeseed (*Brassica napus* L.).
 
-The models were created for academic research, agricultural visualization, digital phenotyping, and plant growth simulation applications.
+The project aims to construct digital representations of rapeseed plants at different developmental stages and provide model resources for agricultural visualization, digital phenotyping, and crop growth research.
+
 ## Contact
-For questions regarding the dataset, please contact:
 
-Yapeng Yuan
+For questions or dataset-related discussions, please contact the author through GitHub Issues.
 
-College of Agronomy and Biotechnology
-
+**Yapeng Yuan**  
+College of Agronomy and Biotechnology  
 Southwest University
