@@ -9,7 +9,14 @@ This project contains 200 Blender-based digital plant models of rapeseed coverin
 The models were developed for rapeseed growth visualization, three-dimensional reconstruction, digital phenotyping, agricultural research, and educational applications.
 
 Representative Cycles-rendered images are provided in this GitHub repository and organized according to the BBCH growth stage scale. The complete Blender model dataset will be released through Zenodo.
+## Representative Images
 
+### BBCH 10–19: Seedling and Leaf Development
+
+<p align="center">
+  <img src="01_BBCH10-19_Seedling/01_A_Seedling.png" width="45%">
+  <img src="01_BBCH10-19_Seedling/01_B_Seedling.png" width="45%">
+</p>
 ## Dataset Information
 
 - **Species:** Rapeseed (*Brassica napus* L.)
