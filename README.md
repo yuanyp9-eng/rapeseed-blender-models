@@ -110,7 +110,11 @@ This repository contains representative rendered images from the following stage
 
 This GitHub repository provides representative rendered images, BBCH growth-stage classification, and dataset documentation.
 
-The complete dataset containing 200 Blender model files will be released through Zenodo. The Zenodo DOI and download information will be added after publication.
+The complete dataset containing 200 Blender digital plant models is openly available through Zenodo.
+
+- **Zenodo record:** https://doi.org/10.5281/zenodo.21740715
+- **Version DOI:** 10.5281/zenodo.21740715
+- **All-versions DOI:** 10.5281/zenodo.21740714
 
 ## Applications
 
