@@ -130,15 +130,13 @@ This dataset may support:
 
 ## Citation
 
-Citation information will be updated after the complete dataset receives a Zenodo DOI.
+Please cite this dataset as:
 
-Before the DOI is available, please cite this GitHub repository as:
-
-Yuan, Y. (2026). *Rapeseed Blender Models: An Open-source Digital Plant Model Dataset*. GitHub repository.
+Yuan, Y. (2026). *Rapeseed Blender Models: A Dataset of 200 Three-Dimensional Digital Plant Models Across Selected BBCH Growth Stages* (Version v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21740715
 
 ## License
 
-This dataset is intended to be released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This dataset is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 Users may share and adapt the dataset, provided that appropriate credit is given to the author and the original dataset source.
 
