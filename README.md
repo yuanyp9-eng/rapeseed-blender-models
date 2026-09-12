@@ -4,7 +4,7 @@ An open-source digital plant model dataset representing different growth stages 
 
 ## Overview
 
-This project contains 200 Blender-based digital plant models of rapeseed covering multiple developmental stages.
+This project contains 220 Blender-based digital plant models of rapeseed covering multiple developmental stages.
 
 The models were developed for rapeseed growth visualization, three-dimensional reconstruction, digital phenotyping, agricultural research, and educational applications.
 
@@ -62,7 +62,7 @@ Representative Cycles-rendered images are provided in this GitHub repository and
 ## Dataset Information
 
 - **Species:** Rapeseed (*Brassica napus* L.)
-- **Number of models:** 200
+- **Number of models:** 220
 - **Model format:** Blender (.blend)
 - **Software:** Blender 4.x
 - **Rendering engine:** Cycles
@@ -110,7 +110,7 @@ This repository contains representative rendered images from the following stage
 
 This GitHub repository provides representative rendered images, BBCH growth-stage classification, and dataset documentation.
 
-The complete dataset containing 200 Blender digital plant models is openly available through Zenodo.
+The complete dataset containing 220 Blender digital plant models is openly available through Zenodo.
 
 - **Zenodo record:** https://doi.org/10.5281/zenodo.21740715
 - **Version DOI:** 10.5281/zenodo.21740715
@@ -132,7 +132,7 @@ This dataset may support:
 
 Please cite this dataset as:
 
-Yuan, Y. (2026). *Rapeseed Blender Models: A Dataset of 200 Three-Dimensional Digital Plant Models Across Selected BBCH Growth Stages* (Version v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21740715
+Yuan, Y. (2026). *Rapeseed Blender Models: A Dataset of 220 Three-Dimensional Digital Plant Models Across Selected BBCH Growth Stages* (Version v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21740715
 
 ## License
 
